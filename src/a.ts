@@ -24,5 +24,5 @@ function isLegal(age:number){
 isLegal(10);
 
 // function runLate(fn:()=>number){
-//     setTimeout(fn,1000); xvhxvh
+//     setTimeout(fn,1000);
 // }
